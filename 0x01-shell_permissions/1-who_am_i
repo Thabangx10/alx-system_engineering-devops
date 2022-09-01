@@ -1,2 +1,2 @@
 #!bin/bash/
-Thabang
+id -u -n
