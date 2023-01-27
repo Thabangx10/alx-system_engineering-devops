@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-/*Bash script that displays Best School 10 times.*/
+#This script is displaying "Best School" 10 times
 
 Holberton = 'Best School'
 
