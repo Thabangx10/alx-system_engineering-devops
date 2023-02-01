@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Display ls -l with cutting their #
+# Display ls -l contents after each dash (names only)
 
-LS = "$(ls)"
+LS="$(ls)"
 for i in $LS
 do
     echo "$i" | cut -d - -f2
